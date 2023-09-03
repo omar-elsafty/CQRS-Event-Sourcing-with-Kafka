@@ -1,0 +1,15 @@
+D:\my\CQRS\Post\Post.Common\bin\Debug\net6.0\Post.Common.deps.json
+D:\my\CQRS\Post\Post.Common\bin\Debug\net6.0\Post.Common.dll
+D:\my\CQRS\Post\Post.Common\bin\Debug\net6.0\Post.Common.pdb
+D:\my\CQRS\Post\Post.Common\bin\Debug\net6.0\CQRS.Core.dll
+D:\my\CQRS\Post\Post.Common\bin\Debug\net6.0\CQRS.Core.pdb
+D:\my\CQRS\Post\Post.Common\obj\Debug\net6.0\Post.Common.csproj.AssemblyReference.cache
+D:\my\CQRS\Post\Post.Common\obj\Debug\net6.0\Post.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\my\CQRS\Post\Post.Common\obj\Debug\net6.0\Post.Common.AssemblyInfoInputs.cache
+D:\my\CQRS\Post\Post.Common\obj\Debug\net6.0\Post.Common.AssemblyInfo.cs
+D:\my\CQRS\Post\Post.Common\obj\Debug\net6.0\Post.Common.csproj.CoreCompileInputs.cache
+D:\my\CQRS\Post\Post.Common\obj\Debug\net6.0\Post.Common.csproj.CopyComplete
+D:\my\CQRS\Post\Post.Common\obj\Debug\net6.0\Post.Common.dll
+D:\my\CQRS\Post\Post.Common\obj\Debug\net6.0\refint\Post.Common.dll
+D:\my\CQRS\Post\Post.Common\obj\Debug\net6.0\Post.Common.pdb
+D:\my\CQRS\Post\Post.Common\obj\Debug\net6.0\ref\Post.Common.dll

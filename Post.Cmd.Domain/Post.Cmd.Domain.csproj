@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <RootNamespace>Post.Cmd.Core</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\CQRS.Core\CQRS.Core.csproj" />
+      <ProjectReference Include="..\Post.Common\Post.Common.csproj" />
+    </ItemGroup>
+
+</Project>

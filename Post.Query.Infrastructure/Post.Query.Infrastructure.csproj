@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\CQRS.Core\CQRS.Core.csproj" />
+      <ProjectReference Include="..\Post.Cmd.Domain\Post.Cmd.Domain.csproj" />
+      <ProjectReference Include="..\Post.Query.Domain\Post.Query.Domain.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Confluent.Kafka" Version="2.2.0" />
+      <PackageReference Include="Microsoft.EntityFrameworkCore.Proxies" Version="6.0.21" /> 
+      <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.6" />
+      <PackageReference Include="Microsoft.Extensions.Hosting" Version="6.0.1" />
+    </ItemGroup>
+
+</Project>
